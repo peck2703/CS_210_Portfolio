@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31630.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/homework/cs210_programming_languages/c++/peck_project_two_airgead_banking/report_monthly.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "00eac64ba02ced1c01bee2c5a50cf1aa27693ee2e0671f48bd32f0aa522b234f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/homework/cs210_programming_languages/c++/peck_project_two_airgead_banking/report_monthly.h"
+          },
+          "hashes": {
+            "sha-256": "1c7f688d66bb1f6c8b3cb98d72a0f7b7032ec30ce27a66070da4e34562a8a084"
+          }
+        }
+      ]
+    }
+  ]
+}

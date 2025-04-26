@@ -1,0 +1,17 @@
+﻿  Peck_Project_Two_Airgead_Banking.cpp
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(63,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(109,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(213,25): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(214,25): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(272,26): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(273,26): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(286,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(296,23): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(297,23): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory(3437,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\Peck_Project_Two_Airgead_Banking.cpp(151): message : see reference to function template instantiation 'std::unique_ptr<Report_Monthly,std::default_delete<Report_Monthly>> std::make_unique<Report_Monthly,double&,double&,double&,int&,0>(double &,double &,double &,int &)' being compiled
+  Report_Monthly.cpp
+  Report_Non_Monthly.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  Peck_Project_Two_Airgead_Banking.vcxproj -> D:\Homework\CS210_Programming_Languages\C++\Peck_Project_Two_Airgead_Banking\x64\Debug\Peck_Project_Two_Airgead_Banking.exe
